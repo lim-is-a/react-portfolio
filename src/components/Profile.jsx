@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
+import greenSweater from './images/greenSweater.jpg'
 
 export default class Profile extends Component {
     render() {
         return (
             <div>
                 <div>
-                    <img src="public/images/greenSweater.jpg" alt=""/>
+                    <img src={greenSweater} alt="Isabel in green sweater"/>
                 </div>
                 <div>
                     <h1>Isabel Limas</h1>
