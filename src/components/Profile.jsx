@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import greenSweater from './images/greenSweater.jpg'
+import greenSweater from '../images/greenSweater.jpg'
 
 export default class Profile extends Component {
     render() {
