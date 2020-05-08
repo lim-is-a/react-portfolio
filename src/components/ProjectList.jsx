@@ -23,7 +23,7 @@ export default class ProjectList extends Component {
                 title: "Choose Earth Friendly",
                 description: "More people have been making a move to becoming earth-friendly for multiple reasons. Although it is increasing in popularity, it is still a bit challenging to go on the search for stores or restaurants that are completely earth-friendly or offer earth-friendly products. This is an app designed to facilitate the transition into this new lifestyle or simply seeking more earth-friendly resources.",
                 image: `${earthFriendly}`,
-                link:"https://choose-earth-friendly-pr3.herokuapp.com/"
+                link: "https://choose-earth-friendly-pr3.herokuapp.com/"
             },
             {
                 title: "Fitness Challenge",
@@ -36,9 +36,11 @@ export default class ProjectList extends Component {
         return (
             <div>
                 <h2>My Projects: </h2>
-                {Projects.map((project, i) => {
-                    return <ProjectDetail project={project} key={i} />
-                })}
+                <section>
+                    {Projects.map((project, i) => {
+                        return <ProjectDetail project={project} key={i}/>
+                    })}
+                </section>
             </div>
         )
     }
