@@ -2,6 +2,7 @@
   color: white;
   text-align: center;
   background-color: #282c34;
+  font-size: 3vmin;
 }
 
 .App-header {
@@ -24,4 +25,21 @@
   height: 80vh;
 }
 
-background-color: aliceblue;
+.about-description{
+  margin: 5%;
+  padding: 5%;
+}
+
+.center{
+    padding-top: 24rem,
+}
+.me{
+  padding-top: 5%;
+  background-color: aliceblue;
+  color: #282c34;
+}
+.myPic{
+  border: 15px solid #282c34;
+}
+
+
