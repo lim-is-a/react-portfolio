@@ -24,21 +24,29 @@
 .section{
   height: 80vh;
 }
+.about-section{
+  display: flex;
+  margin: 5%;
+}
 
 .about-description{
   margin: 5%;
   padding: 5%;
 }
 
+.both{
+  clear: both;
+}
+
 .center{
-    padding-top: 24rem,
+    padding-top: 24rem;
 }
 .me{
   padding-top: 5%;
   background-color: aliceblue;
   color: #282c34;
 }
-.myPic{
+.myPic img{
   border: 15px solid #282c34;
 }
 
