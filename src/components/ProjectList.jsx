@@ -34,9 +34,9 @@ export default class ProjectList extends Component {
         ]
 
         return (
-            <div className="section">
+            <div>
                 <h2>My Projects: </h2>
-                <section className="project-container">
+                <section className="flex-container">
                     {Projects.map((project, i) => {
                         return <ProjectDetail project={project} key={i}/>
                     })}

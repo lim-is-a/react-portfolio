@@ -13,7 +13,7 @@
   font-size: calc(10px + 3vmin);
 }
 
-.project-container{
+.flex-container{
   display: flex;
 }
 .project{
@@ -32,6 +32,7 @@
 .about-description{
   margin: 5%;
   padding: 5%;
+  max-width: 60vw;
 }
 
 .both{
@@ -41,13 +42,18 @@
 .center{
     padding-top: 24rem;
 }
-.me{
+.aboutMe{
   padding-top: 5%;
   background-color: aliceblue;
   color: #282c34;
 }
-.myPic img{
+.myPic{
+  max-width:40vw;
+  max-height: 50vh;
+}
+div.myPic > img{
   border: 15px solid #282c34;
+  height: 100%;
 }
 
 
