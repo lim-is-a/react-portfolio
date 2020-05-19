@@ -5,7 +5,7 @@ import greenSweater from '../images/greenSweater.jpg'
 export default class AboutMe extends Component {
     render() {
         return (
-            <div className="section aboutMe">
+            <div className="section aboutMe" id="aboutMe">
                 <h2>About Me: </h2>
                 <section className="flex-container">
                     <div  className="about-description">
