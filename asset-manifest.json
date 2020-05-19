@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9dd71f2c.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.65514196.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.65514196.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.48ae7320.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.48ae7320.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.d08fb9a1.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d08fb9a1.js.map",
-    "static/js/2.ea232eeb.chunk.js": "/react-portfolio/static/js/2.ea232eeb.chunk.js",
-    "static/js/2.ea232eeb.chunk.js.map": "/react-portfolio/static/js/2.ea232eeb.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/react-portfolio/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.5eb55291.chunk.js": "/react-portfolio/static/js/2.5eb55291.chunk.js",
+    "static/js/2.5eb55291.chunk.js.map": "/react-portfolio/static/js/2.5eb55291.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.6ebae313a2ea7d059a6ad3c792069690.js": "/react-portfolio/precache-manifest.6ebae313a2ea7d059a6ad3c792069690.js",
+    "precache-manifest.2d940fdf4a935b5e2d24fd6b9a194cae.js": "/react-portfolio/precache-manifest.2d940fdf4a935b5e2d24fd6b9a194cae.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/react-portfolio/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.9dd71f2c.chunk.css.map": "/react-portfolio/static/css/main.9dd71f2c.chunk.css.map",
-    "static/js/2.ea232eeb.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ea232eeb.chunk.js.LICENSE.txt",
+    "static/js/2.5eb55291.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5eb55291.chunk.js.LICENSE.txt",
     "static/media/connect4.png": "/react-portfolio/static/media/connect4.bc347433.png",
     "static/media/cookbook.png": "/react-portfolio/static/media/cookbook.a84a7423.png",
     "static/media/earthFriendly.png": "/react-portfolio/static/media/earthFriendly.b81a9e22.png",
@@ -20,8 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d08fb9a1.js",
-    "static/js/2.ea232eeb.chunk.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.5eb55291.chunk.js",
     "static/css/main.9dd71f2c.chunk.css",
-    "static/js/main.65514196.chunk.js"
+    "static/js/main.48ae7320.chunk.js"
   ]
 }
