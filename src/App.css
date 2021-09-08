@@ -23,6 +23,7 @@
 
 .section{
   height: 80vh;
+  padding-top: 5%;
 }
 .about-section{
   display: flex;
@@ -43,7 +44,6 @@
     padding-top: 24rem;
 }
 .aboutMe{
-  padding-top: 5%;
   background-color: aliceblue;
   color: #282c34;
 }
