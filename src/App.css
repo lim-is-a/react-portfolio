@@ -13,6 +13,12 @@
   font-size: calc(10px + 3vmin);
 }
 
+.appTextBox{
+  margin-top: 2%;
+  height: 30vh;
+  overflow:auto;
+}
+
 .flex-container{
   display: flex;
 }
@@ -51,7 +57,7 @@
   max-width:40vw;
   max-height: 50vh;
 }
-div.myPic > img{
+.myPic > img{
   border: 15px solid #282c34;
   height: 100%;
 }
