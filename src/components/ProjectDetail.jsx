@@ -5,14 +5,15 @@ export default class ProjectDetail extends Component {
         return (
             <div className="project">
                 <section >
-                    <h3>{this.props.project.title}</h3>
-                    <p>About the app: {this.props.project.description}</p>
+                    <a href={this.props.project.link}>
+                        <span>
+                            <h3>{this.props.project.title}</h3>
+                            <img src={this.props.project.image} alt={this.props.project.image} width="100%"/>
+                        </span>
+                    </a>
                 </section>
                 <section>
-                    <img src={this.props.project.image} alt={this.props.project.image} width="100%"/>
-                    <p>
-                        Click <a href={this.props.project.link}>HERE</a> for deployed app.
-                    </p>
+                    <p>About the app: {this.props.project.description}</p>
                 </section>
             </div>
         )
