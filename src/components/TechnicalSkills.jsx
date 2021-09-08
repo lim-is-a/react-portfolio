@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class TechnicalSkills extends Component {
     render() {
         return (
-            <div id="skills">
+            <div className="section skills" id="skills">
                 <h4>Skills: </h4>
                 <div>
                     <ul>
