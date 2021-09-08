@@ -4,7 +4,7 @@ export default class TechnicalSkills extends Component {
     render() {
         return (
             <div className="section skills" id="skills">
-                <h4>Skills: </h4>
+                <h2>Skills: </h2>
                 <div>
                     <ul>
                         <li>JavaScript</li>
