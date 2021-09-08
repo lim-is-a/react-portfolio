@@ -10,7 +10,7 @@ export default class AboutMe extends Component {
                 <section className="flex-container">
                     <div  className="about-description">
                         <p>
-                            I am a dedicated software engineer that would love to bring my passion for health and biology into the field of technology. Learning and working with new technologies is something I enjoy and would love to work in a collaborative environment with others who share similar interests.
+                            I am a software engineer who brings passion for health and biology into the field of technology. I am passionate about solving problems and creating new technologies that help others live a better life. On my down time I like to stay active any way I can, go on outdoor adventures, and hang out with family and friends.
                         </p>
                     </div>
                     <div className="myPic">
