@@ -12,7 +12,7 @@ export default class ProjectDetail extends Component {
                         </span>
                     </a>
                 </section>
-                <section>
+                <section className="appTextBox">
                     <p>About the app: {this.props.project.description}</p>
                 </section>
             </div>
